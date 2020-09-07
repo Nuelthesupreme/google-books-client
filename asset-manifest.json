@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/google-books-client/static/js/main.52dfb33c.chunk.js",
-    "main.js.map": "/google-books-client/static/js/main.52dfb33c.chunk.js.map",
+    "main.js": "/google-books-client/static/js/main.602289b5.chunk.js",
+    "main.js.map": "/google-books-client/static/js/main.602289b5.chunk.js.map",
     "runtime-main.js": "/google-books-client/static/js/runtime-main.7a2912b8.js",
     "runtime-main.js.map": "/google-books-client/static/js/runtime-main.7a2912b8.js.map",
     "static/js/2.cb3f86db.chunk.js": "/google-books-client/static/js/2.cb3f86db.chunk.js",
     "static/js/2.cb3f86db.chunk.js.map": "/google-books-client/static/js/2.cb3f86db.chunk.js.map",
     "index.html": "/google-books-client/index.html",
-    "precache-manifest.7ed9ec36cf3fba045b004bee347ffdfc.js": "/google-books-client/precache-manifest.7ed9ec36cf3fba045b004bee347ffdfc.js",
+    "precache-manifest.d00f9011e193913170a9ab52db5b0de9.js": "/google-books-client/precache-manifest.d00f9011e193913170a9ab52db5b0de9.js",
     "service-worker.js": "/google-books-client/service-worker.js",
     "static/js/2.cb3f86db.chunk.js.LICENSE.txt": "/google-books-client/static/js/2.cb3f86db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7a2912b8.js",
     "static/js/2.cb3f86db.chunk.js",
-    "static/js/main.52dfb33c.chunk.js"
+    "static/js/main.602289b5.chunk.js"
   ]
 }
